@@ -1,0 +1,14 @@
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\bin\Debug\net8.0\Adventure in Mystic Woods.exe
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\bin\Debug\net8.0\Adventure in Mystic Woods.deps.json
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\bin\Debug\net8.0\Adventure in Mystic Woods.runtimeconfig.json
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\bin\Debug\net8.0\Adventure in Mystic Woods.dll
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\bin\Debug\net8.0\Adventure in Mystic Woods.pdb
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.AssemblyInfoInputs.cache
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.AssemblyInfo.cs
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.csproj.CoreCompileInputs.cache
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.dll
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\refint\Adventure in Mystic Woods.dll
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.pdb
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.genruntimeconfig.cache
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\ref\Adventure in Mystic Woods.dll
