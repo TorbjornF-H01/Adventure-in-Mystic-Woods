@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adventure in Mystic Woods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5119d5805ec93b49d7ad6c9df3b68f61b8d055b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6980a40256d73482002a320282e5eb50f56afe1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adventure in Mystic Woods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adventure in Mystic Woods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

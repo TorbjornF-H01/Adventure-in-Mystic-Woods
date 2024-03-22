@@ -12,3 +12,4 @@ C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0
 C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.pdb
 C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.genruntimeconfig.cache
 C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\ref\Adventure in Mystic Woods.dll
+C:\Users\torbj\Documents\Projects  C#\Adventure in Mystic Woods\obj\Debug\net8.0\Adventure in Mystic Woods.sourcelink.json
