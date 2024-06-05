@@ -1,13 +1,58 @@
-# Visual Studio
-.vscode/
+# VSCode specific
 .vscode/*
-
-# Visual Studio Code snippets
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix 
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.idea/
+
+# Build directories
+bin/
+obj/
+
+# Dependency directories
+node_modules/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+
+# Compiled source files
+*.class
+*.dll
+*.exe
+*.o
+*.pyc
+*.pyo
+*.so
+
+# Packages
+*.jar
+*.war
+*.ear
+
+# Testing and coverage
+coverage/
+.nyc_output/
 
 # Visual Studio specific
 .vs/
