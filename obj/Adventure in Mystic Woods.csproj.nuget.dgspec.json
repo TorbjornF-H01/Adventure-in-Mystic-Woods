@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\torbj\\Documents\\Projects  C#\\Adventure in Mystic Woods\\Adventure in Mystic Woods.csproj": {}
+    "C:\\Users\\Tempt\\Projects\\AdventureGame\\Adventure-in-Mystic-Woods\\Adventure in Mystic Woods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\torbj\\Documents\\Projects  C#\\Adventure in Mystic Woods\\Adventure in Mystic Woods.csproj": {
+    "C:\\Users\\Tempt\\Projects\\AdventureGame\\Adventure-in-Mystic-Woods\\Adventure in Mystic Woods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\torbj\\Documents\\Projects  C#\\Adventure in Mystic Woods\\Adventure in Mystic Woods.csproj",
+        "projectUniqueName": "C:\\Users\\Tempt\\Projects\\AdventureGame\\Adventure-in-Mystic-Woods\\Adventure in Mystic Woods.csproj",
         "projectName": "Adventure in Mystic Woods",
-        "projectPath": "C:\\Users\\torbj\\Documents\\Projects  C#\\Adventure in Mystic Woods\\Adventure in Mystic Woods.csproj",
-        "packagesPath": "C:\\Users\\torbj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\torbj\\Documents\\Projects  C#\\Adventure in Mystic Woods\\obj\\",
+        "projectPath": "C:\\Users\\Tempt\\Projects\\AdventureGame\\Adventure-in-Mystic-Woods\\Adventure in Mystic Woods.csproj",
+        "packagesPath": "C:\\Users\\Tempt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tempt\\Projects\\AdventureGame\\Adventure-in-Mystic-Woods\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\torbj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Tempt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
