@@ -13,6 +13,10 @@ class Program
         while (playAgain)
         {
             Console.Clear();
+            string introArt = ReadAsciiArt("intro.txt");
+            Console.WriteLine(introArt);
+            Pause();
+
             Console.WriteLine("Welcome to the Adventure of the Mystic Woods!");
             Console.Write("Enter your character's name: ");
             string name = Console.ReadLine();
@@ -71,7 +75,7 @@ class Program
         string filePath = Path.Combine("artwork", fileName);
         try
         {
-            return File.ReadAllText(filePath);
+            return File.ReadAllText(filePath, Encoding.UTF8);
         }
         catch (Exception ex)
         {
@@ -202,6 +206,9 @@ class Program
         else
         {
             Console.WriteLine("You have succumbed to your injuries. Game over.");
+            string endArt = ReadAsciiArt("end.txt");
+            Console.WriteLine(endArt);
+            Pause();
         }
     }
 
@@ -219,11 +226,17 @@ class Program
         {
             Console.WriteLine("You have defeated the Forest Guardian! You open the chest and find a map to safety.");
             Console.WriteLine("Congratulations, you have completed your adventure and found the treasure!");
+            string endArt = ReadAsciiArt("end.txt");
+            Console.WriteLine(endArt);
+            Pause();
             Environment.Exit(0); // Exit the game
         }
         else
         {
             Console.WriteLine("The Forest Guardian has defeated you. Game over.");
+            string endArt = ReadAsciiArt("end.txt");
+            Console.WriteLine(endArt);
+            Pause();
             Environment.Exit(0); // Exit the game
         }
     }

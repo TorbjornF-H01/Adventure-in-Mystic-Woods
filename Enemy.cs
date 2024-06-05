@@ -1,6 +1,6 @@
-﻿/// <summary>
+﻿
 /// Enemy class
-/// </summary>
+
 class Enemy
 {
     public string Name;

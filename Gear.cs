@@ -1,6 +1,6 @@
-﻿/// <summary>
+﻿
 /// Gear class
-/// </summary>
+
 class Gear
 {
     public string Name;

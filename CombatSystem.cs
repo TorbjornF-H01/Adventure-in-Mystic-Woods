@@ -1,6 +1,6 @@
-﻿/// <summary>
+﻿
 /// Combat system class
-/// </summary>
+
 class CombatSystem
 {
     public static void Fight(Character player, Enemy enemy)

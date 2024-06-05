@@ -1,6 +1,6 @@
-﻿/// <summary>
+﻿
 /// Item class
-/// </summary>
+
 class Item
 {
     public string Name;
